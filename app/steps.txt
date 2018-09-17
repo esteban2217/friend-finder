@@ -1,0 +1,5 @@
+1. Landing page will welcome the user and have the input for name & picture url
+2. Then the user will be redirect to the survey page (10 questions)
+3. Once each answer is selected & the user hits submit they will be redirect to the final match page
+4. Compare the difference between answers from the new user and existing user
+5. Show picture of new friend
